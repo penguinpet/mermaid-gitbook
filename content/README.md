@@ -104,7 +104,7 @@ Mermaid is supported in a number of publishing systems and editors. Please repor
 
 # Online live editor
 
-An editor is available for creating diagrams. With it you can quickly start writing mermaid diagrams. It is possible to:
+You can create mermaid diagrams with the online editor. It is possible to:
 
 * save the result as a svg
 * get a link to a viewer of the diagram
